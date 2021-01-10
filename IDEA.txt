@@ -2,3 +2,5 @@ changes made in IDEA
 changes
 
 changes
+
+changes for conflict in master
